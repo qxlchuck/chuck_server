@@ -1,0 +1,54 @@
+{
+    "version": 123445566,
+    "base_url": "https://keqi24.github.io/chuck_server/images/",
+    "images": [
+               {
+               "id": "fruit_1",
+               "w": 626,
+               "h": 626,
+               "ts": 12345678,
+               "tag": "fruit",
+               "ft":"jpg"
+               },
+               {
+               "id": "fruit_2",
+               "w": 610,
+               "h": 343,
+               "ts": 12345678,
+               "tag": "fruit",
+               "ft":"jpg"
+               },
+               {
+               "id": "fruit_3",
+               "w": 400,
+               "h": 399,
+               "ts": 12345678,
+               "tag": "fruit",
+               "ft":"jpg"
+               },
+               {
+               "id": "fruit_4",
+               "w": 626,
+               "h": 626,
+               "ts": 12345678,
+               "tag": "fruit",
+               "ft":"jpg"
+               },
+               {
+               "id": "fruit_5",
+               "w": 1024,
+               "h": 640,
+               "ts": 12345678,
+               "tag": "fruit",
+               "ft":"jpg"
+               },
+               {
+               "id": "fruit_6",
+               "w": 1300,
+               "h": 1300,
+               "ts": 12345678,
+               "tag": "fruit",
+               "ft":"jpg"
+               }
+               ]
+}
